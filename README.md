@@ -1,4 +1,4 @@
-# Proyecto de implementación de una red eléctrica utilizando el paradigma de la orientación a objetos con "algo" de TDD y SCRUM
+# Proyecto de implementación de una red eléctrica utilizando el paradigma de la orientación a objetos con "algo" de TDD y SCRUM 
 
 Iremos marcando cada uno de los sprints, cada sprint representa una historia de usuario y es un producto mínimo viable, entregable al cliente según la metodología SCRUM.
 
